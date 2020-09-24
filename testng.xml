@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="project_Activities.AlchemyLogin"/>
+      <class name="project_Activities.Alchemypopup"/>
+      <class name="project_Activities.AlchemyToDo"/>
+      <class name="project_Activities.GoogleKeep"/>
+      <class name="project_Activities.GoogleKeepReminder"/>
+      <class name="project_Activities.GoogleTask"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
